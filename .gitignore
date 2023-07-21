@@ -1,3 +1,4 @@
 node_modules
 package-lock.json
-apps/*
+apps/*.apk
+apps/*.idsig
